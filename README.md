@@ -118,7 +118,7 @@ Los requisitos técnicos para esta parte del proyecto son los siguientes:
 
 Para este desafío tendrás que generar una base de datos con los datos tratados de la extracción. 
 
-Podrás hacerlo con MongoDB o con SQL. Eres libre de elegir la que quieras, pero por lo menos una de ellas deberá estar presente en tu proyecto. 
+
 
 ## TO DO's
 ---
